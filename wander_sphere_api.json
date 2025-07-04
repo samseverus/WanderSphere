@@ -1,0 +1,53 @@
+{
+    "countries": [
+        {
+            "name": "Australia",
+            "cities": [
+                {
+                    "name": "Sydney, Australia",
+                    "imageUrl": "images/sydney.jpg",
+                    "description": "Una hermosa ciudad costera con ambiente relajado, que incluye la Ópera de Sydney, el Puente Harbour y playas impresionantes."
+                },
+                {
+                    "name": "Gold Coast, Australia",
+                    "imageUrl": "images/gold-coast.jpg",
+                    "description": "Famosa por sus largas playas de arena, parques temáticos y vibrante vida nocturna."
+                }
+            ]
+        },
+        {
+            "name": "México",
+            "cities": [
+                {
+                    "name": "Cancún, México",
+                    "imageUrl": "images/cancun.jpg",
+                    "description": "Destino de playa paradisíaco con aguas turquesas, resorts todo incluido y ruinas mayas cercanas."
+                }
+            ]
+        }
+    ],
+    "temples": [
+        {
+            "name": "Angkor Wat, Camboya",
+            "imageUrl": "images/angkor-wat.jpg",
+            "description": "El complejo religioso más grande del mundo, con impresionante arquitectura jemer y relieves tallados."
+        },
+        {
+            "name": "Borobudur, Indonesia",
+            "imageUrl": "images/borobudur.jpg",
+            "description": "El templo budista más grande del mundo, con forma de mandala y vistas espectaculares al amanecer."
+        }
+    ],
+    "beaches": [
+        {
+            "name": "Bora Bora, Polinesia Francesa",
+            "imageUrl": "images/bora-bora.jpg",
+            "description": "Isla paradisíaca conocida por sus aguas turquesas y lujosos bungalows sobre el agua."
+        },
+        {
+            "name": "Maldives",
+            "imageUrl": "images/maldives.jpg",
+            "description": "Archipiélago con playas de arena blanca, arrecifes de coral y aguas cristalinas ideales para buceo."
+        }
+    ]
+}
